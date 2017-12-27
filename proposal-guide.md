@@ -104,6 +104,8 @@ speaking) to make a positive change in the attendees life?_
 
 ### Pitch
 
+2 - 3 paragraphs
+
 Why this? Why now? Why you? (in this order)
 
 I've found this section to harbor the meat and potatoes of every talk. A friend
