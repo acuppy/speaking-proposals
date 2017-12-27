@@ -2,7 +2,7 @@
 
 Accepted: GORUCO 2017, Brighton Ruby 2017
 
-Rejected: RubyConf 2017
+Rejected: RailsConf 2017, RubyConf 2017
 
 ### Abstract
 
