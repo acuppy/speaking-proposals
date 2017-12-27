@@ -1,6 +1,7 @@
 ## Difficult Conversations
 
 Accepted: GORUCO 2017, Brighton Ruby 2017
+
 Rejected: RubyConf 2017
 
 ### Abstract
