@@ -6,9 +6,9 @@ Rejected: RubyConf 2017
 
 ### Abstract
 
-It’s never easy to have a tough conversations, and they never go away. Therefore, I see a better way to live with them, and I want everyone to hear it: empower yourself to understand why we do what we do so you can effect change. Understanding creates empathy. Empathy reduces (not eliminates) conflict.
+It’s never easy to have a tough conversation, and they never go away. Therefore, I see a better way to live with them, and I want everyone to hear it: empower yourself to understand why we do what we do so you can effect change. Understanding creates empathy. Empathy reduces (not eliminates) conflict.
 
-This talk is a practical course on the triad of human psychology: language, physiology and focus. I’ll walk through simple strategies that lower stress, create empathy and manage emotions.
+This talk is a practical course on the triad of human psychology: language, physiology, and focus. I’ll walk through simple strategies that lower stress, create empathy and manage emotions.
 
 ### Description
 
@@ -21,8 +21,8 @@ This talk is practical and will be interactive. To engage both kinesthetic, audi
 The talk is broken into five parts:
 
 - The six human needs (basic and spiritual)
-- The triad (physiology, language and focus)
-- Stacking not distracting (“and” not “but” and other conditional language)
+- The triad (physiology, language, and focus)
+- Stacking not distracting (“and” not “but” and conditional language)
 - Gaining leverage without force
 - Changing “state” to drive change
 
@@ -34,6 +34,6 @@ Like I’ve mentioned, I’ve been a professional actor for more than 20 years. 
 
 Why this talk, now?
 
-I see/talk/listen to so many people that are afraid to connect, out of the fear for confrontation. We text/Slack/email all in place of face-to-face conversation. We allow “introvert” to explain why we’re not comfortable asking for what we need, when most of time it just comes down to being afraid of saying why we need it.
+I see/talk/listen to so many people that are afraid to connect, out of the fear of confrontation. We text/Slack/email all in place of face-to-face conversation. We allow “introvert” to explain why we’re not comfortable asking for what we need when most of the time it just comes down to being afraid of saying why we need it.
 
 Anyone - and I do mean anyone - can be exactly who they are, changing nothing about themselves, and foster a more heartfelt connection to those around them. Contrary to popular belief: Empathy is not earned - it’s created.
