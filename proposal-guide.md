@@ -69,7 +69,7 @@ theatre we call this the "story arc."
 In a theatrical context, the beginning would include all the exposition:
 characters, environment, and themes.  In a talk, we do something similar:
 
-Characters: _Who are you? and what about your experience (or lack of) qualifies 
+Characters: _Who are you? and what about your experience (or lack of) qualifies
   you?_
 
 Environment: _What's the problem and it's context (e.g.,
@@ -101,3 +101,21 @@ another approach now or in the future. So...
 
 _What's the call to action? and... what can be done tomorrow (figuratively
 speaking) to make a positive change in the attendees life?_
+
+### Pitch
+
+Why this? Why now? Why you? (in this order)
+
+I've found this section to harbor the meat and potatoes of every talk. A friend
+of mine (Nadia Odunayo - @nodunayo) brought to my attention that what I wrote in
+the Pitch for "Difficult Conversations" was my actual Abstract.
+
+The motivation, heart and passion to give this talk is often found in this one
+section, and for that reason, cannot be undervalued or overlooked.
+
+Regardless, tell the organizers _why_ and show your passion for it. Don't throw
+this away with message to the organizers or some trivial 'just because' like
+statement. This is your moment to really hit on what _compelled_ you to help
+other developers through the problem/solution you're speaking about.
+
+Make it rich and full of you.
