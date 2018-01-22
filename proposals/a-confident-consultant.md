@@ -1,4 +1,4 @@
-## The Confident Consultant
+## A Confident Consultant
 
 ### Abstract
 
