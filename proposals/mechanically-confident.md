@@ -2,7 +2,7 @@
 
 ### Abstract
 
-The idea that confidence is _solely the result positive self-talk_ is circular: If I believed in my ability to talk myself up, I would.  But if I did, I wouldn't need to talk myself up.  It's not as simple as having faith.
+The idea that confidence is _solely the result of positive self-talk_ is circular: If I believed in my ability to talk myself up, I would.  But if I did, I wouldn't need to talk myself up.  It's not as simple as having faith.
 
 There's a thread amongst _all_ peak performers and skilled practitioners: specific habits, routines, and processes that wrap uncertainty and create confidence. Oscar-winning actors rehearse, pro-drivers do laps, chefs prep.
 
