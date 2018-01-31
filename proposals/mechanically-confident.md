@@ -32,6 +32,6 @@ It's no good to tell people that they should just be more confident by 'believin
 
 I've been a professional actor for over 20 years. Confidence on stage is the byproduct of cementing the staging and the text in the body - the same applies to anyone in every industry. As a software engineer, I've used the same mental focus to develop processes that create certainty.  We use design patterns, specific editors and use certain processes, such as pair programming, or even Ruby on Rails, to wrap the uncertainty of the unknown.  The result: a greater degree of confidence.
 
-My mission is to work the problem through parable and in-talk experience. Often the first step is facilitating a process to create a process (so meta). That's what I do year after year, talk after talk, show after show.
+My mission is to work the problem through parable and in-talk experience. Often the first step is facilitating a process is to create a process (so meta). That's what I do year after year, talk after talk, show after show.
 
 Experience is not a result - it's a tool. 
