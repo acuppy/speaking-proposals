@@ -5,7 +5,7 @@ I’m okay with it.
 
 ### Abstract
 
-As you know, you’re not the code you write, but you are the time you spent on it.  For years, I burned the midnight oil, ate dinner at my desk, slept on a couch, kissed my spouse goodnight to be at my desk in the morning. I dedicated my time to being exceptional at everything, but what mattered in life: living.
+As you know, you’re not the code you write, but you are the time you spent on it.  For years, I burned the midnight oil, ate dinner at my desk, slept on a couch, kissed my spouse goodnight to be at my desk in the morning. I dedicated my time to being exceptional at everything, except for what truly mattered in life: living.
 
 I’m going to be a father soon, and it got me thinking: What is my time worth? What do I want to be, truly, great at?
 
