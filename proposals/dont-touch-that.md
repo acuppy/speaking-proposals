@@ -16,16 +16,16 @@ The style of the talk is very interactive. We're going to figuratively (maybe li
 
 Example Rails internals:
 
-- ActiveRecord::Reflection
-- ActiveSupport::Inflector
-- ActionDispatch::Routing
+- `ActiveRecord::Reflection`
+- `ActiveSupport::Inflector`
+- `ActionDispatch::Routing`
 
 The above are three examples. There's a lot within each, and the intention is not to explore everything about them. As I mentioned, the lesson is on strategies for debugging through the lens of exploration. For each, I'll select 1-2 key areas to override, disable, or extend.
 
 Strategies for debugging:
 - `puts` debugging
 - reopening a local gem
-- rails console
+- `rails console`
 - backtrace review
 
 Fundamental lessons:
